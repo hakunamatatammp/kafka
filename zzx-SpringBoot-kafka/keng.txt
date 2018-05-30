@@ -1,0 +1,2 @@
+kafka远程连接失败 
+修改kafka config/server.properties  增加host.name=虚拟机真实ip
